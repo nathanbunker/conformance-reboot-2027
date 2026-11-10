@@ -1,0 +1,16 @@
+{
+  "id": "conformance-reboot-2027",
+  "documentType": "Topic Reference",
+  "status": "Draft",
+  "interophubTopic": 146,
+  "repository": "https://github.com/nathanbunker/conformance-reboot-2027",
+  "license": "Content licensed CC BY 4.0",
+  "navLabels": {
+    "status-and-scope": "Scope",
+    "related-work": "Related Work",
+    "why-a-reboot-and-the-proposed-mission": "Why",
+    "the-work": "The Work",
+    "progress-and-the-year-end-review": "Progress",
+    "working-decisions": "Decisions"
+  }
+}

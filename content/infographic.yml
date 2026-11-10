@@ -1,0 +1,48 @@
+# Primary infographic: this topic at a glance.
+#
+# Canonical source, reviewed like the Markdown in content/. Each label condenses
+# a section of the core document and names it with ref, a heading ID or anchor
+# in content/. Add no claim, number, commitment, or change in certainty that the
+# referenced section does not state. build.ps1 draws the image and places it in
+# the guide and the Word document. Each idea may name an icon from
+# process/templates/infographic/icons/.
+# See "Primary infographic" in process/guidance/TopicReference.md.
+layout: topic-at-a-glance
+arrangement: sequence
+title: "Conformance Reboot 2027"
+purpose:
+  text: "Restart Conformance engagement by learning current practice before reaching out to guide authors."
+  ref: purpose
+ideas:
+  - id: reconnaissance
+    label: "Reconnaissance"
+    text: "Explore FHIR guide sources and learn which questions are worth asking."
+    icon: search
+    ref: reconnaissance
+  - id: hub-operations
+    label: "Hub Operations"
+    text: "Run agendas, notes, and follow-up in InteropHub."
+    icon: layout-grid
+    ref: hub-operations
+  - id: curated-topics
+    label: "Curated Topics"
+    text: "Expert-reviewed findings become Conformance topics."
+    icon: clipboard-check
+    ref: research-pipeline-and-curated-topics
+  - id: discussion-framework
+    label: "Discussion Framework"
+    text: "Questions for reviewing a guide's conformance design, not a score."
+    icon: list-checks
+    ref: discussion-framework
+  - id: author-workshops
+    label: "Author Workshops"
+    text: "Voluntary conversations with guide authors, when ready."
+    icon: handshake
+    ref: author-workshops
+  - id: year-end-review
+    label: "Year-End Review"
+    text: "Look back on 2027 and plan next steps."
+    icon: calendar
+    ref: year-end-review
+alt: "Conformance Reboot 2027 at a glance: Reconnaissance and Hub Operations lead to Curated Topics, a Discussion Framework, voluntary Author Workshops, and a Year-End Review."
+topic_link: true

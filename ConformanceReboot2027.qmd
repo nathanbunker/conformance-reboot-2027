@@ -1,0 +1,18 @@
+---
+title: "Conformance Reboot 2027"
+subtitle: "A tentative proposal for Conformance Work Group feedback"
+date: last-modified
+date-format: "MMMM YYYY"
+---
+
+{{< include content/00-status-and-scope.md >}}
+
+{{< include content/01-related-work.md >}}
+
+{{< include content/02-why-a-reboot.md >}}
+
+{{< include content/04-the-work.md >}}
+
+{{< include content/05-progress-and-year-end-review.md >}}
+
+{{< include content/90-working-decisions.md >}}

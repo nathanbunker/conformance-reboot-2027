@@ -12,5 +12,10 @@
     "the-work": "The Work",
     "progress-and-the-year-end-review": "Progress",
     "working-decisions": "Decisions"
+  },
+  "comments": {
+    "mode": "interophub",
+    "hub": "https://informatics.immregistries.org/hub",
+    "document": "conformance-reboot-2027"
   }
 }
